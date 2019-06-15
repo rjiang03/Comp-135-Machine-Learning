@@ -1,0 +1,3 @@
+Name: Ruijie Jiang  Q. Student
+I spent 20 hours on this problem (6 on Prob. 10 on Prob. 2. 4 on Prob. 2)
+I talked with Xu Han to find the best step_size.
